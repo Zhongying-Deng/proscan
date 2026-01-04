@@ -14,4 +14,4 @@ Provide the path to the training for the `data_path` variable in `train.sh`, and
 bash train.sh
 ```
 
-Currently, the dataset has not been split into train/val/test sets. Only the training set is used (see Line 184 of `train_cross_val_prostate.py`).
+Currently, the dataset has not been split into train/val/test sets. Only the training set is used (see Line 164 of `train_cross_val_prostate.py`).
